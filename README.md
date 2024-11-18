@@ -18,21 +18,11 @@ Key features include:
 - **SurfaceView**: Utilized `SurfaceView` for efficient drawing of game elements on the screen.
 - **Bitmap Graphics**: Sprites, including the spaceship and asteroids, are rendered using `Bitmap` for optimized performance.
 - **Object-Oriented Approach**: Game elements such as the spaceship, asteroids, and projectiles are modeled as objects for better code organization and flexibility.
-- **Collision Detection**: Implemented to ensure smooth interactions between the spaceship, asteroids, and projectiles.
 
 ---
 
 ## Screenshots 📸
 
-To include gameplay screenshots:
-
-1. Capture your gameplay moments.
-2. Save the images in a directory in your project, e.g., `images/`.
-3. Use the following syntax to showcase them:
-
-   ```markdown
-   ### Gameplay
-   ![Gameplay](images/gameplay.png)
-
-   ### High Score Screen
-   ![High Score Screen](images/high_score.png)
+   ![Gameplay](https://github.com/SachinthaRajapaksha/Android-Studio--SpaceFighter-2D-Mobile-Game/blob/main/MobileGame%20SS/SS1.png)
+   ![High Score Screen](https://github.com/SachinthaRajapaksha/Android-Studio--SpaceFighter-2D-Mobile-Game/blob/main/MobileGame%20SS/SS2.png)
+   ![GP](https://github.com/SachinthaRajapaksha/Android-Studio--SpaceFighter-2D-Mobile-Game/blob/main/MobileGame%20SS/SS.png)
