@@ -2,7 +2,7 @@
 
 ## Description
 
-**SpaceFighter Mobile** is a 2D mobile game developed using **Kotlin** in **Android Studio**. In this exciting arcade-style game, players control a spaceship tasked with destroying asteroids while aiming to achieve the highest score possible. The high score is stored locally on the device for replayability.
+**SpaceFighter Mobile** is a 2D mobile game developed using **Kotlin** in **Android Studio** as part of our university 2nd year 2nd semester Mobile Application Developmenet (MAD) module. In this exciting arcade-style game, players control a spaceship tasked with destroying asteroids while aiming to achieve the highest score possible. The high score is stored locally on the device for replayability.
 
 Key features include:
 
