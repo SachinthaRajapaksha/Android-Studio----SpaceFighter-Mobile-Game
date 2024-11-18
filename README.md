@@ -1,4 +1,4 @@
-# SpaceFighter Mobile Game🚀
+# SpaceFighter Simple 2D Mobile Game🚀
 
 ## Description
 
