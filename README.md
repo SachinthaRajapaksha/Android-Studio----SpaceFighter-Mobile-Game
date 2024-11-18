@@ -1,4 +1,4 @@
-# SpaceFighter Mobile 🚀
+# SpaceFighter Mobile Game🚀
 
 ## Description
 
